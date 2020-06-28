@@ -93,73 +93,22 @@ http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1,ARGENTINA:Power HD
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
-#EXTINF:-1,ARGENTINA:Telpin
-http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
-
-#EXTINF:-1,ARGENTINA:TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-
-#EXTINF:-1,CHILE:Canal 22
-http://canal22santiago.cl/playlist.m3u8
-
-#EXTINF:-1,CHILE:Carolina TV
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-
-#EXTINF:-1,CHILE:Pinguino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
-
-#EXTINF:-1,CHILE:UesTV
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-
-#EXTINF:-1,CHILE:VTV Aconcagua
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-
-#EXTINF:-1,CHILE:VTV Vi—a del Mar
-http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-
-#EXTINF:-1,COLOMBIA:Canal Tro
-http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8
-
-#EXTINF:-1,COLOMBIA:49 TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0013&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-
-#EXTINF:-1,COLOMBIA:CristovisiOn
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0004&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-
-#EXTINF:-1,COLOMBIA:Teleamiga
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0012&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-
-#EXTINF:-1,COLOMBIA:Telemedellin
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0024&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-
-#EXTINF:-1,ESPA—A:324
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-
-#EXTINF:-1,ESPA—A:Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-
-#EXTINF:-1,ESPA—A:Aragon Tv
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-
-#EXTINF:-1,ESPAÔøΩA:EXTREMADURA TV
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-
-#EXTINF:-1,ESPAÔøΩA:IB3
+#EXTINF:-1,ESPA√Ø¬ø¬ΩA:IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
-#EXTINF:-1,ESPA—A:La Sexta
+#EXTINF:-1,ESPA√ëA:La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1,ESPA—A:LEVANTE TV
+#EXTINF:-1,ESPA√ëA:LEVANTE TV
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
 
-#EXTINF:-1,ESPA—A:Navarra Televisi—n
+#EXTINF:-1,ESPA√ëA:Navarra Televisi√ën
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 
-#EXTINF:-1,ESPA—A:Neox
+#EXTINF:-1,ESPA√ëA:Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,ESPA—A:TV3
+#EXTINF:-1,ESPA√ëA:TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 
 #EXTINF:-1,MEXICO:Canal 10 Chetumal
@@ -267,52 +216,52 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 #EXTINF:0, MICRO VISION
 http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8
 
-#EXTINF:0 group-title=—DEPORTES—, MLB
+#EXTINF:0 group-title=√ëDEPORTES√ë, MLB
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1, group-title=—DEPORTES—,VTV |UY|
+#EXTINF:-1, group-title=√ëDEPORTES√ë,VTV |UY|
 http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
 
-#EXTINF:-1, group-title=—NOTICIAS—,CNN
+#EXTINF:-1, group-title=√ëNOTICIAS√ë,CNN
 http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
-#EXTINF:-1, group-title=—ENTRETENIMIENTO—,Fashion HD
+#EXTINF:-1, group-title=√ëENTRETENIMIENTO√ë,Fashion HD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
-#EXTINF:-1, group-title=—MUSICA—,NRJ HITS TV Live
+#EXTINF:-1, group-title=√ëMUSICA√ë,NRJ HITS TV Live
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1, group-title=—MUSICA—,Power HD Argentina
+#EXTINF:-1, group-title=√ëMUSICA√ë,Power HD Argentina
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:0 group-title=—DJING—, DJING IBIZA
+#EXTINF:0 group-title=√ëDJING√ë, DJING IBIZA
 https://www.djing.com/tv/dancefloor.m3u8
 
-#EXTINF:0 group-title=—DJING—, DJING ANIMATION
+#EXTINF:0 group-title=√ëDJING√ë, DJING ANIMATION
 https://www.djing.com/tv/animation.m3u8
 
-#EXTINF:0 group-title=—DJING—, DJING UNDERGROUND
+#EXTINF:0 group-title=√ëDJING√ë, DJING UNDERGROUND
 https://www.djing.com/tv/underground.m3u8
 
-#EXTINF:0 group-title=—DJING—, DJING SUMMER VIBES
+#EXTINF:0 group-title=√ëDJING√ë, DJING SUMMER VIBES
 https://www.djing.com/tv/session_summer-vibes.m3u8
 
-#EXTINF:0 group-title=—DJING—, DJING ELECTRO ROCK
+#EXTINF:0 group-title=√ëDJING√ë, DJING ELECTRO ROCK
 https://www.djing.com/tv/session_electro-rock.m3u8
 
-#EXTINF:0 group-title=—DJING—, DJING FRENCH TOUCH
+#EXTINF:0 group-title=√ëDJING√ë, DJING FRENCH TOUCH
 https://www.djing.com/tv/session_french-touch.m3u8
 
-#EXTINF:0 group-title=—DJING—, DJING KARAOKE
+#EXTINF:0 group-title=√ëDJING√ë, DJING KARAOKE
 https://www.djing.com/tv/karaoke.m3u8
 
-#EXTINF:0 group-title=—MUSICA—, PORTAL FOXMIX
+#EXTINF:0 group-title=√ëMUSICA√ë, PORTAL FOXMIX
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=—https://i.imgur.com/YyAsaqb.png— group-title=—DEPORTES—, DeporTV | SD
+#EXTINF:-1 tvg-logo=√ëhttps://i.imgur.com/YyAsaqb.png√ë group-title=√ëDEPORTES√ë, DeporTV | SD
 https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo=—https://i.imgur.com/bNXH4cj.png— group-title=—DEPORTES—, Real Madrid TV | SD
+#EXTINF:-1 tvg-logo=√ëhttps://i.imgur.com/bNXH4cj.png√ë group-title=√ëDEPORTES√ë, Real Madrid TV | SD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 #EXTINF:-1, CAPITAL 21 CDMX
@@ -366,7 +315,7 @@ http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 #EXTINF:-1, BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1, TV MART— (Cuba)
+#EXTINF:-1, TV MART√ë (Cuba)
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, Ecuavisa
@@ -408,7 +357,7 @@ http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 #EXTINF:-1, Weather Nation Tv
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-#EXTINF:-1, canal meteorol—gico
+#EXTINF:-1, canal meteorol√ëgico
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTINF:-1, NOTICIAS ABC
@@ -573,7 +522,7 @@ http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 #EXTINF:-1, Telesur costa rica
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
-#EXTINF:-1,EJTV — Costa Rica
+#EXTINF:-1,EJTV √ë Costa Rica
 http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
 
 #EXTINF:-1,CANAL 88 STEREO COSTA RICA
@@ -594,7 +543,7 @@ http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?t
 #EXTINF:-1,COLOMBIA:Canal Capital HD
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:-1,PYC TELEVISI—N
+#EXTINF:-1,PYC TELEVISI√ëN
 http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
 
 #EXTINF:-1,MUNDO +
@@ -639,7 +588,7 @@ http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?www.tecnotv.i
 #EXTINF:-1,CANAL CNC
 http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
 
-#EXTINF:-1 R√ÅDIO 105 TV
+#EXTINF:-1 R√É¬ÅDIO 105 TV
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
 
 #EXTINF:-1,M2O TV HD
@@ -693,7 +642,7 @@ http://74.222.24.25:1935/live/ngrp:galatvmerida_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/Canal10-Chiapas-Logo-300x300.jpg" group-title="MEXICO", Canal 10 Chiapas
 http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvpacifico.mx/portal/images/logos/tgp_logo_facebook.jpg" group-title="MEXICO", TVP MAZATL—N
+#EXTINF:-1 tvg-logo="http://tvpacifico.mx/portal/images/logos/tgp_logo_facebook.jpg" group-title="MEXICO", TVP MAZATL√ëN
 https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w829019339_b1428000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvpacifico.mx/portal/images/logos/tgp_logo_facebook.jpg" group-title="MEXICO", TVP YAQUI TV
@@ -702,7 +651,7 @@ https://5a3911d64928b.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w190
 #EXTINF:-1 tvg-logo="http://tvpacifico.mx/portal/images/logos/tgp_logo_facebook.jpg" group-title="MEXICO", TVP MOCHIS
 https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1854582142_b1428000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvpacifico.mx/portal/images/logos/tgp_logo_facebook.jpg" group-title="MEXICO", TVP CULIAC—N
+#EXTINF:-1 tvg-logo="http://tvpacifico.mx/portal/images/logos/tgp_logo_facebook.jpg" group-title="MEXICO", TVP CULIAC√ëN
 https://5a3911d64928b.streamlock.net/gpacifico1/smil:gpculiacan.smil/chunklist_w1277967391_b1428000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TV9bFojvv3w/V1YUoSQ6aHI/AAAAAAAA0xk/fgz13awlu1Ull6Ad3qPVDYNp1gRHZYCkACLcB/s1600/WIPR%2BTV.PNG" group-title="Latinos", WIPR
@@ -789,31 +738,31 @@ http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://culturewhiz.org/sites/default/files/images/places/home4-4032.jpg" group-title="NOTICIAS", NYC Times Square
 http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8G6/b46c4a6c18.png" group-title="Espa—a", La 2
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8G6/b46c4a6c18.png" group-title="Espa√ëa", La 2
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad" group-title="Espa—a",NOVA
+#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad" group-title="Espa√ëa",NOVA
 http://91.126.138.140:1935/live/nova-Stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="Espa—a", COSMO TV
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="Espa√ëa", COSMO TV
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 
-#EXTINF:-1t vg-logo="http://3.bp.blogspot.com/-QYPP4sZ5xNE/UtVvCmgfgDI/AAAAAAAASKo/EWP3le9cE2E/s1600/divinity.png" group-title="Espa—a", Divinity
+#EXTINF:-1t vg-logo="http://3.bp.blogspot.com/-QYPP4sZ5xNE/UtVvCmgfgDI/AAAAAAAASKo/EWP3le9cE2E/s1600/divinity.png" group-title="Espa√ëa", Divinity
 http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-3QImK9KP2KE/TwOQkE7KC-I/AAAAAAAAERI/L4FEY3Jfa4k/s1600/5energy3.jpg" group-title="Espa—a", Energy
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-3QImK9KP2KE/TwOQkE7KC-I/AAAAAAAAERI/L4FEY3Jfa4k/s1600/5energy3.jpg" group-title="Espa√ëa", Energy
 http://91.126.138.141:1935/live/energy-Stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg" group-title="Espa—a", FDF
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg" group-title="Espa√ëa", FDF
 http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/ten.png?ssl=1&w=450" group-title="Espa—a", Ten
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/ten.png?ssl=1&w=450" group-title="Espa√ëa", Ten
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/dmax.png" group-title="Espa—a", DMAX Espa—a
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/dmax.png" group-title="Espa√ëa", DMAX Espa√ëa
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canal11lapalma.net/DOCUMENTOS/LOGO/logocanal4ok.jpg" group-title="Espa—a",  CANAL 4 Tenerife
+#EXTINF:-1 tvg-logo="http://www.canal11lapalma.net/DOCUMENTOS/LOGO/logocanal4ok.jpg" group-title="Espa√ëa",  CANAL 4 Tenerife
 https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
 
 #EXTINF:-1, Classics Toons TV
@@ -957,7 +906,7 @@ http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/mk/9/95/Logo_tv_planeta.jpg" group-title="MUSICA", Planeta HD
 http://84.43.207.130/planetahd/planetahd.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png" group-title=, 24/7 (ESPA—OL )
+#EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png" group-title=, 24/7 (ESPA√ëOL )
 http://stream.dubstep.fm:80/256mp3
 
 #EXTINF:-1 tvg-logo="http://puu.sh/nu2hK/ec70777e2f.png" group-title="DEPORTES", Redbull TV
@@ -1167,7 +1116,7 @@ http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2573.MP4
 #EXTINF:-1, Deadpool 2
 http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2783.mp4
 
-#EXTINF:-1, Jurassic World: El reino ca—do (2018)
+#EXTINF:-1, Jurassic World: El reino ca√ëdo (2018)
 http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2820.mkv
 
 #EXTINF:-1, 24hrs Para Sobrevivir
